@@ -10,6 +10,8 @@ public class TestPlayerMove : MonoBehaviour
     public float turnSmoothTime = 0.1f;
     private float turnSmoothVelocity;
 
+    private InputAction attack;
+
     private InputAction move;
 
     void Start()
@@ -19,6 +21,10 @@ public class TestPlayerMove : MonoBehaviour
         move = InputSystem.actions.FindAction("Move");
         move.performed += Move;
         move.canceled += Move;
+        
+        attack = InputSystem.actions.FindAction("Attack");
+        attack.performed += Attack;
+        attack.canceled += Attack;
     }
 
     void Update()
@@ -40,5 +46,10 @@ public class TestPlayerMove : MonoBehaviour
     {
         moveInput = context.ReadValue<Vector2>();
         animator.SetFloat("Speed", moveInput.magnitude);
+    }
+
+    public void Attack(InputAction.CallbackContext context)
+    {
+        animator.SetBool("Attack", context.phase == InputActionPhase.Performed );
     }
 }

@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8fe4934-5b0b-403f-9b7c-ec113cc63a7a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Forgotten_Realm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Forgotten_Realm/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/Attack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/Attack.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/InputSystem_Actions.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/InputSystem_Actions.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/Maria.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/Maria.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/TestPlayerMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/TestPlayerMove.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/UIController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/UIController.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729547425269</updated>
       <workItem from="1729547425666" duration="9000" />
-      <workItem from="1729548990926" duration="1619000" />
+      <workItem from="1729548990926" duration="3141000" />
     </task>
     <servers />
   </component>
