@@ -12,6 +12,11 @@ public class CameraFollow : MonoBehaviour
         offset = this.transform.position;
     }
 
+    private void Start()
+    {
+        target = FindObjectOfType<CharacterController>().transform;
+    }
+
     void LateUpdate()
     {
         Vector3 desiredPosition = target.position + offset;
