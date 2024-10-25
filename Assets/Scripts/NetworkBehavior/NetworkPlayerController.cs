@@ -4,6 +4,7 @@ using Unity.Netcode;
 
 public class NetworkPlayerController : NetworkBehaviour
 {
+    [SerializeField] private Camera _playerCamera;
     private CharacterController characterController;
     private  Animator animator;
     private Vector2 moveInput;
@@ -29,6 +30,34 @@ public class NetworkPlayerController : NetworkBehaviour
         attack = InputSystem.actions.FindAction("Attack");
         attack.performed += Attack;
         attack.canceled += Attack;
+        if (IsOwner)
+        {
+            EnableCamera();
+        }
+        else
+        {
+            DisableCamera();
+        }
+        
+    }
+    public override void OnNetworkSpawn()
+    {
+        base.OnNetworkSpawn();
+        if (IsOwner)
+        {
+            EnableCamera();
+        }
+        
+    }
+
+    private void EnableCamera()
+    {
+        _playerCamera.gameObject.SetActive(true);
+    }
+
+    private void DisableCamera()
+    {
+        _playerCamera.gameObject.SetActive(false);
     }
 
     void Update()

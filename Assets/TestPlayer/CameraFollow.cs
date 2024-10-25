@@ -12,10 +12,7 @@ public class CameraFollow : MonoBehaviour
         offset = this.transform.position;
     }
 
-    private void Start()
-    {
-        target = FindObjectOfType<CharacterController>().transform;
-    }
+    
 
     void LateUpdate()
     {
@@ -23,6 +20,6 @@ public class CameraFollow : MonoBehaviour
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed);
         transform.position = smoothedPosition;
 
-        transform.LookAt(target); // Камера всегда смотрит на игрока
+       transform.LookAt(target); // Камера всегда смотрит на игрока
     }
 }

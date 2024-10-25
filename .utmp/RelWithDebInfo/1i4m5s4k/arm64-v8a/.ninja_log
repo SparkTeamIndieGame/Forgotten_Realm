@@ -1,0 +1,12 @@
+# ninja log v5
+58	384	7513860750341059	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	666b582f3a09c4
+385	619	7513860752183285	E:/Unity_Project/Forgotten_Realm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1i4m5s4k/obj/arm64-v8a/libswappywrapper.so	3b6b0bc71aa25daf
+30	2014	7513860766246137	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	4cb13147d7d791e5
+7	2256	7513860768708121	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	41a2809c0b48eaf3
+15	2272	7513860768819333	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	e2a10e9cc99bd3e5
+49	2455	7513860770791438	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	69cc2065bf001cf2
+40	2472	7513860771045014	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	a2eb9e720a84f92e
+0	2624	7513860772706174	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	3320ebcf0510c527
+24	3123	7513860777578982	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	36af99f74420e9c
+11	3386	7513860780346008	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	873c844d571241c0
+3386	3501	7513860781563172	E:/Unity_Project/Forgotten_Realm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1i4m5s4k/obj/arm64-v8a/libgame.so	d19ccc09e06015eb
