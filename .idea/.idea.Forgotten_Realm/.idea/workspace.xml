@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8fe4934-5b0b-403f-9b7c-ec113cc63a7a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Forgotten_Realm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Forgotten_Realm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/DefaultNetworkPrefabs.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DefaultNetworkPrefabs.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/.sample.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Prefabs/BootstrapPlayer.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Prefabs/BootstrapPlayer.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scenes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scenes/Bootstrap.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scenes/Bootstrap.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts/Bootstrap.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts/Bootstrap.asmdef.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts/BootstrapManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts/BootstrapManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts/BootstrapPlayer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Samples/Netcode for GameObjects/2.0.0/Bootstrap/Scripts/BootstrapPlayer.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Debug/NetworkDebug.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Debug/NetworkDebug.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NetworkBehavior/NetworkPlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NetworkBehavior/NetworkPlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/CameraFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/CameraFollow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TestPlayer/MariaNetwork.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TestPlayer/MariaNetwork.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Resources/Fonts &amp; Materials/Anton SDF.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UserChoices.choices" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UserChoices.choices" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
-    </list>
+    <list default="true" id="d8fe4934-5b0b-403f-9b7c-ec113cc63a7a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +110,7 @@
       <workItem from="1729861208364" duration="2000" />
       <workItem from="1729861581880" duration="736000" />
       <workItem from="1729864066725" duration="34000" />
-      <workItem from="1729864600005" duration="3772000" />
+      <workItem from="1729864600005" duration="4619000" />
     </task>
     <servers />
   </component>
